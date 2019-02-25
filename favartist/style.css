@@ -1,0 +1,23 @@
+body{text-align: center;
+    background-color: lightblue}
+    
+ img{width:500px; height:250px;}
+ p{font-style: italic}
+ h2{text-align:left;}
+ div{border:50px; border-color: #91274F;
+   border-style:solid;
+   border-width:25px;
+     border-radius:10000px;
+ }
+ ol{text-align:left;}
+ table, th, td {
+  border:1px solid black;
+  border-collapse: collapse; width:100
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+ 
+   
+ 
