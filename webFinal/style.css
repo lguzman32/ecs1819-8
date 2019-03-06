@@ -1,5 +1,6 @@
 h1{text-align: center;
     background-color: darkgreen
+
 }
 p{text-align: center;
     
@@ -9,3 +10,9 @@ div{background-color: darkgreen;
 h4{text-align: center;
     text-decoration: underline;
 }
+p{background-color: darkgreen;
+font-family: 'Srisakdi', cursive;
+    font-size: 21
+    
+}
+
