@@ -1,5 +1,7 @@
-p{background-color: red;}
-div{background-color: red}
-h1{text-align: center;}
+p{background-color: #F58522;}
+div{background-color: #F58522}
+h1{text-align: center;
+    background-color:#F58522;
+}
 p{text-align: center;}
 h2{text-align: center;}

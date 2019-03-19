@@ -1,17 +1,16 @@
 h1{text-align: center;
-    background-color: darkgreen;
     text-decoration:underline;
 
 }
 p{text-align: center;
     
 }
-div{background-color: darkgreen;
+div{background-color:#4ABDAC;
 }
 h4{text-align: center;
     text-decoration: underline;
 }
-p{background-color: darkgreen;
+p{
 font-family: 'Srisakdi', cursive;
     font-size: 27
 }
