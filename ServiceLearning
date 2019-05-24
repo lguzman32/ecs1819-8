@@ -14,7 +14,7 @@
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
         <title>
-            WebFinal
+            Service Learning Project
         </title>
     </head>
     <body style="background-color: #F7B733"> 
@@ -27,16 +27,11 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
          <li class="nav-item">
-        <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/webFinal/index.html">Homepage</a>
+        <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/webFinal/index.html">Environment</a>
       </li>
       <li class="nav-item">
-        <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/webFinal/link1.html">Hobbies</a>
+        <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/webFinal/link1.html">Global warming</a>
       </li>
-      <li class="nav-item">
-        <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/webFinal/link2.html">Legacy</a>
-        <li class="nav=item">
-          <a style="color:#F7B733" class="nav-link" href="https://lguzman32.github.io/ecs1819-8/tributeCite/index.html">Tribute page</a>
-      </li> 
     </ul>
   </div> 
 </nav>
@@ -53,7 +48,6 @@
                         My Life
                     </h1>
                     <p style="color:#F7B733">
-                      I was born in Chicago and i've lived in the city my whole life. I went to preschool twice and then started elementary school, i was in 5th grade when i transfered to a new elementary school. I started playing basketball in my new school from 6th to 8th grade. I had many highschools in mind but i ultimately chose to attend Lane Tech, my first year so far has been great and i can't wait to continue my highschool life at Lane. I don't really know what i want to study at college or what i want to be, i just know i want to do something big with my life.
                     </p>
                     </div>
                     <div class="col-lg-8">
@@ -64,18 +58,9 @@
         <br>
                   <!-- card deck and cards -->
         <div>
-          <h1 style="color:#F7B733">Interests</h1>
+          <h1 style="color:#F7B733">Wildlife</h1>
           </div>
           <div class="card-deck">
-            <div class="card bg-">
-      <div class="card-body text-center">
-    <img class="card-img-top" src="images/Lonzo Ball.jpg" alt="Lonzo Ball" >
-    <div class="card-block">
-      <h4 style="color:#F7B733" class="card-title">Basketball</h4>
-      <p style="color:#F7B733" class="card-text">I started playing basketball in the 6th grade and fell in love with the sport, even giving up skateboarding for it. I still play basketball to this day and i enjoy playing with friends for fun and playing the sport competitively.</p>
-  </div>
-  </div>
-    </div>
     <div class="card bg-">
       <div class="card-body text-center">
     <img class="card-img-top" src="images/ybn.jpg" alt="YBN Nahmir" >
@@ -85,24 +70,7 @@
   </div>
       </div>
     </div>
-    <div class="card bg-">
-      <div class="card-body text-center">
-    <img class="card-img-top" src="images/philo.jpg" alt="Statue">
-    <div class="card-block">
-      <h4 style="color:#F7B733" class="card-title">Philosophy</h4>
-      <p style="color:#F7B733" class="card-text"> I don't consider my self a philosopher or anything but im always questioning everything i hear and learn. I always wonder about our existence and everything around us, i come up with so many theories about reality and our world.</p>
-      </div>
-      </div>
-    </div>
-  </div>
-</div>
 </div>
     </body> 
-    <!-- footer and storyboard buttons -->
-    <footer>
-           <a href="images/SBH.jpg" class="btn btn-primary">Storyboard for Homepage</a>
-           <a href="images/SB2.jpg" class="btn btn-primary">Storyboard for Second Page</a>
-           <a href="images/SB1.jpg" class="btn btn-primary">Storyboard for Third page</a>
-</footer>
 </html>
 
